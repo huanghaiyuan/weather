@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">library</string>
+    <string name="allday_wather_watch">24小时天气监控</string>
+    <string name="air_quality">空气指数</string>
+</resources>
